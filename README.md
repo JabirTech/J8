@@ -4,12 +4,8 @@ J8 is the new generation of [Jabir Project](http://jabirproject.org)'s CPU's. Th
 
 ## Operation codes
 
-* `000` : Bitwise NOT
-* `001` : Bitwise AND
-* `010` : Bitwise OR
-* `011` : Bitwise XOR
-* `100` : ADD
-* `101` : INC
-* `110` : NEG
-* `111` : SUB
+* `00` : Bitwise NOT
+* `01` : Bitwise AND
+* `10` : Bitwise OR
+* `11` : ADD
 
